@@ -1,0 +1,3 @@
+-keep class com.iptv.wgplayer.model.** { *; }
+-keep class com.wireguard.** { *; }
+-dontwarn com.wireguard.**
